@@ -1,1 +1,0 @@
-# Windows privilege escalation checklist
